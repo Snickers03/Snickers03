@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - 📫 How to reach me: 
-  - Discord: Snickers_03#4411
+  - **Discord**: Snickers_03#4411
 - 🔭 I’m currently working on different Full Stack Web Applications
 - 🌱 I’m currently learning Mongo DB
 - 👯 I’m looking to collaborate on every project which contains web developement
-:kissing:
 <!--
 **Snickers03/Snickers03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
