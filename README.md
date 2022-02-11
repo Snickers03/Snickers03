@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Niklas, a Web Developer from Germany.
+I'm Niklas, a Web Developer from Germany. <br 7>
 Always looking for new projects.
 
 ## 📫 How to reach me
