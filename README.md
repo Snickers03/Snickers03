@@ -1,7 +1,4 @@
 
-Attempt | #1 | #2
-
-
 ## Hi there 👋
 I'm Niklas, a Web Developer from Germany. <br />
 Always looking for new projects.
@@ -29,6 +26,7 @@ Always looking for new projects.
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 <br />
 
+### Statistics
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=Snickers03)
 
 <br />
