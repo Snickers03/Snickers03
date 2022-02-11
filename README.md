@@ -1,18 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-# 👨‍💻 Tech Stack
-- ⚡ Programming Languages (& other script languages)
+## 👨‍💻 Tech Stack
+### ⚡ Programming Languages (& other script languages)
   - TypeScript / JavaScript
   - Python
   - HTML & CSS
-- 🧰 Frameworks & Libraries
+
+### 🧰 Frameworks & Libraries
 
 - 🗄️ Database & Hosting
 - 💻 Tools & Websites
  
+## How to reach me
+- **Discord**: Snickers_03#4411
 
-- 📫 How to reach me: 
-  - **Discord**: Snickers_03#4411
+
 - 🔭 I’m currently working on different Full Stack Web Applications
 - 🌱 I’m currently learning Mongo DB
 - 👯 I’m looking to collaborate on every project which contains web developement
