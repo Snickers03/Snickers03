@@ -29,7 +29,7 @@ Always looking for new projects.
 - Figma
 - Trello
 
-![Visitor Count](https://profile-counter.glitch.me/Snickers03/count.svg)
+![](https://komarev.com/ghpvc/?username=Snickers03)
 
 <!--
 **Snickers03/Snickers03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
