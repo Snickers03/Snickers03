@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# 👨‍💻 Tech Stack
+- ⚡ Programming Languages (& other script languages)
+  - TypeScript / JavaScript
+  - Python
+  - HTML & CSS
+- 🧰 Frameworks & Libraries
+
+- 🗄️ Database & Hosting
+- 💻 Tools & Websites
+ 
+
 - 📫 How to reach me: 
   - **Discord**: Snickers_03#4411
 - 🔭 I’m currently working on different Full Stack Web Applications
