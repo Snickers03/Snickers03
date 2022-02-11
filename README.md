@@ -2,6 +2,9 @@
 I'm Niklas, a Web Developer from Germany.
 Always looking for new projects.
 
+## 📫 How to reach me
+- **Discord**: Snickers_03#4411
+
 ## 👨‍💻 Tech Stack
 ### ⚡ Programming Languages (& other script languages)
   - TypeScript / JavaScript
@@ -25,9 +28,6 @@ Always looking for new projects.
 - Notion
 - Figma
 - Trello
- 
-## How to reach me
-- **Discord**: Snickers_03#4411
 
 <!--
 **Snickers03/Snickers03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
