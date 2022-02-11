@@ -8,8 +8,8 @@ Always looking for new projects.
 ## 👨‍💻 Tech Stack
 ### ⚡ Programming Languages (& other script languages)
   - TypeScript / JavaScript
-  - Python
-  - HTML & CSS
+  - ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+  - ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧰 Frameworks & Libraries
 - ReactJS (most of the time NextJS)
@@ -18,7 +18,7 @@ Always looking for new projects.
 
 ### 🗄️ Database & Hosting
 - Firebase
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - Netlify
 
 ### 💻 Tools & Websites
@@ -26,7 +26,7 @@ Always looking for new projects.
 - Discord
 - Postman
 - Notion
-- Figma
+- ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - Trello
 
 ![](https://komarev.com/ghpvc/?username=Snickers03)
