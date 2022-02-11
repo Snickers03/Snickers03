@@ -10,8 +10,8 @@ Always looking for new projects.
 
 ### 🧰 Frameworks & Libraries
 - ReactJS (most of the time NextJS)
-- NodeJS
-- ExpressJS
+- Tailwind CSS
+- NodeJS and ExpressJS
 
 ### 🗄️ Database & Hosting
 - Firebase
