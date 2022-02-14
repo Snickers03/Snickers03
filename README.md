@@ -4,7 +4,7 @@ I'm Niklas, a Web Developer from Germany. <br />
 Always looking for new projects.
 
 ## 📫 How to reach me
-- **Discord**: Snickers_03#4411
+- **Discord**: Snickers03#4411
 
 ## 👨‍💻 Tech Stack
 ### ⚡ Programming Languages (& other script languages)
