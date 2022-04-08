@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h2>Hi there 👋</p>
 </div>
-## Hi there 👋
+
 I'm Niklas, a Web Developer from Germany. <br />
 Always looking for new projects.
 
