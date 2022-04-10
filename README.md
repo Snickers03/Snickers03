@@ -6,7 +6,7 @@
   <h2>Hi there 👋</p>
 </div>
 
-<div>
+<div style="display: flex;">
     <div>
       <p>I'm Niklas, a Web Developer from Germany.</p>
       <p>Always looking for new projects.</p>
