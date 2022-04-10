@@ -6,7 +6,7 @@
   <h2>Hi there 👋</p>
 </div>
 
-<div>
+<div align="center">
     <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="400" height="170"/>
     <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics" width="400" height="170" />
 <div>
