@@ -7,8 +7,8 @@
 </div>
 
 <div>
-    <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="500" height="212"/>
-    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics" width="500" height="212" />
+    <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="400" height="170"/>
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics" width="400" height="170" />
 <div>
 
 ## 📫 How to reach me
