@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="200" height="100"/>
+    <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="600" height="250"/>
     <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics"/>
 <div>
 
