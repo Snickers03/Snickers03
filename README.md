@@ -6,8 +6,13 @@
   <h2>Hi there 👋</p>
 </div>
 
-I'm Niklas, a Web Developer from Germany. <br />
-Always looking for new projects.
+<div>
+    <div>
+      <p>I'm Niklas, a Web Developer from Germany.</p>
+      <p>Always looking for new projects.</p>
+    <div/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics"/>
+</div>
 
 ## 📫 How to reach me
 - **Discord**: Snickers03#4411
