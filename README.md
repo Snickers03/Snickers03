@@ -7,20 +7,9 @@
 </div>
 
 <div>
-    <div>
-      <p>I'm Niklas, a Web Developer from Germany.</p>
-      <p>Always looking for new projects.</p>
-    <div/>
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics"/>
     <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics"/>
 <div>
-
-<div style="display: flex;">
-    <div>
-      <p>I'm Niklas, a Web Developer from Germany.</p>
-      <p>Always looking for new projects.</p>
-    <div/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics"/>
-</div>
 
 ## 📫 How to reach me
 - **Discord**: Snickers03#4411
