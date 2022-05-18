@@ -11,9 +11,11 @@
     <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics" width="400" height="170" />
 <div>
 <div align="left">
-  
+
+<!--
 ## 📫 How to reach me
 - **Discord**: Snickers03#4411
+-->
 
 ## 👨‍💻 Tech Stack
 ### ⚡ Programming Languages (& other script languages)
