@@ -9,8 +9,10 @@
   <a href="https://www.linkedin.com/in/niklas-bialk"><img src="https://img.shields.io/badge/-Niklas_Bialk-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 <div align="center">
+  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </div>
 <!-- old me and contributions -->
 <!-- <div align="center">
@@ -115,5 +117,9 @@
 -->
 <div/>
 <div align="center">
+  
+  
 ![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
+  
+  
 </div>
