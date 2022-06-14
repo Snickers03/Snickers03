@@ -1,16 +1,21 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/ >
   <a href="https://discord.com/users/711563779413901363">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h2>Hi there 👋</p>
+</div> -->
+<div id="header" align="center">
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <h2>Hi there 👋</p>
 </div>
+
 
 <!-- <div align="center">
     <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="400" height="170"/>
     <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics" width="400" height="170" />
 <div> -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   
 <div align="left">
 
