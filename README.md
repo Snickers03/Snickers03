@@ -114,5 +114,7 @@
 <br />
 -->
   
-![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
+  <div align="center">
+    ![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
+  </div>
 <div/>
