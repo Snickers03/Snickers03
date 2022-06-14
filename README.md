@@ -21,26 +21,30 @@
   
 <div align="left">
 
-<!-- About Section -->
-<!-- About Section -->
-<!-- About Section -->
+<!-- About Section Start -->
+<!-- About Section Start -->
+<!-- About Section Start -->
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <p>Picture of me</p>
       
-      <blockquote>
+<blockquote>
 
-      I am a frontend (and fullstack) software engineer based in Germany, with 2+ years of experience.
+I am a frontend (and fullstack) software engineer based in Germany, with 2+ years of experience.
 
-      </blockquote>
+</blockquote>
+    
+----
   
-      ----
-
-    </p>
+  </p>
 </details>
-  
-<!-- Tech Stack -->  
+<!-- About Section End -->
+<!-- About Section End -->
+<!-- About Section End -->
+
+<!-- Tech Stack Start -->  
+<!-- Tech Stack Start -->  
+<!-- Tech Stack Start -->  
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
@@ -58,7 +62,10 @@
 
   </p>
 </details>
-  
+<!-- Tech Stack End -->  
+<!-- Tech Stack End -->  
+<!-- Tech Stack End -->
+
   
 <!-- ## 👨‍💻 Tech Stack
 ### ⚡ Programming Languages (& other script languages)
