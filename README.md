@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Snickers03"><img src="https://img.shields.io/badge/-Snickers03-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://niklasbialk.dev"><img src="https://img.shields.io/badge/-niklasbialk.dev-FDA700?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://niklasbialk.dev"><img src="https://img.shields.io/badge/-niklasbialk.dev-FDA700?style=flat&logo=Acclaim&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/niklas-bialk"><img src="https://img.shields.io/badge/-Niklas_Bialk-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 
