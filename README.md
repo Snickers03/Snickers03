@@ -19,7 +19,7 @@
 <div> -->
 
   
-<div align="left">
+<div align="center">
 
 <!-- About Section Start -->
 <!-- About Section Start -->
@@ -114,7 +114,5 @@
 <br />
 -->
 
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
-</div>
 <div/>
