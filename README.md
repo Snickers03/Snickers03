@@ -34,7 +34,7 @@
 **Backend** | [![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=black&logo=express&logoColor=white)](https://expressjs.com/)
 **Database** | [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&logo=firebase&logoColor=FFFFFF)](https://firebase.google.com/)
 **Hosting** | [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=white)](https://heroku.com/)
-**Code Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ IDEA](https://img.shields.io/static/v1?label=&message=IntelliJ IDEA&color=black&logo=IntelliJIDEA&logoColor=white)](https://code.visualstudio.com/)
+**Code Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ IDEA](https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=black&logo=IntelliJIDEA&logoColor=white)](https://code.visualstudio.com/)
   
   
   
