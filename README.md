@@ -39,7 +39,7 @@
   
   
   
-## 👨‍💻 Tech Stack
+<!-- ## 👨‍💻 Tech Stack
 ### ⚡ Programming Languages (& other script languages)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -84,7 +84,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-<br />
+<br /> -->
 
 <!--
 ## ✨ Statistics */
@@ -92,5 +92,5 @@
 <br />
 -->
   
-![](https://komarev.com/ghpvc/?username=Snickers03)
+![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
 <div/>
