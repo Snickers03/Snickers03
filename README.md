@@ -6,9 +6,9 @@
   <h2>Hi there 👋</p>
 </div> -->
 
-<p align="center">
-<img width="600" src="https://raw.githubusercontent.com/Snickers03/Snickers03/master/assets/github-snake.svg" />
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!-- <div align="center">
     <img align=top src="https://i.ibb.co/ZNYFVTS/Unbenannt.png" alt="Me" width="400" height="170"/>
     <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Snickers03" alt="Statistics" width="400" height="170" />
