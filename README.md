@@ -21,10 +21,24 @@
   
 <div align="left">
 
-<!--
-## 📫 How to reach me
-- **Discord**: Snickers03#4411
--->
+<!-- About Section -->
+<!-- About Section -->
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <p>Picture of me</p>
+      
+      <blockquote>
+
+      I am a frontend (and fullstack) software engineer based in Germany, with 2+ years of experience.
+
+      </blockquote>
+  
+      ----
+
+    </p>
+</details>
   
 <!-- Tech Stack -->  
 <details>
