@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/ >
-  <a href="https://discord.com/users/711563779413901363">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <h2>👋 Hello! I'm Niklas</p>
+  <h1>👋 Hello! I'm Niklas</p>
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
