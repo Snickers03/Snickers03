@@ -30,6 +30,7 @@
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
+      
 | **Category** | **Technologies** |
 | - | - |
 **Core** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
@@ -38,7 +39,9 @@
 **Database** | [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&logo=firebase&logoColor=FFFFFF)](https://firebase.google.com/)
 **Hosting** | [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=white)](https://heroku.com/)
 **Code Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ IDEA](https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=black&logo=IntelliJIDEA&logoColor=white)](https://code.visualstudio.com/)
-  
+
+----      
+
   </p>
 </details>
   
