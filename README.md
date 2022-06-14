@@ -26,17 +26,11 @@
 <!-- About Section Start -->
 <details>
   <summary><b>👤 About</b></summary>
-    <p>
+    <p>...<p/>
       
-<blockquote>
-
-I am a frontend (and fullstack) software engineer based in Germany, with 2+ years of experience.
-
-</blockquote>
     
 ----
-  
-  </p>
+
 </details>
 <!-- About Section End -->
 <!-- About Section End -->
