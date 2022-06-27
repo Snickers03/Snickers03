@@ -28,7 +28,14 @@
 <!-- About Section Start -->
 <details>
   <summary><b>👤 About</b></summary>
-    <p>...<p/>
+    <p>I am a frontend software engineer and CTO at AM & NB Services UG near Lake of Constance, Germany.<p/>
+    <br />
+    <p>At AMNB I lead the development team and take care of organization, task management and product development. Besides that I study business informatics at the      DHBW Ravensburg.</p>
+    <br/>
+  <p>Furthermore, I am also a developer myself and work in the frontend team with next.js, typescript and tailwindcss.</p>
+  <br/>
+  <p>When I'm not at the keyboard, I like to do sports, read or do something with friends.</p>
+
       
     
 ----
