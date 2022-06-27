@@ -27,7 +27,7 @@
 <!-- About Section Start -->
 <!-- About Section Start -->
 <details>
-  <summary><b>👤 About</b></summary>
+  <summary><b>👤 About</b></summary> <br />
 <blockquote>
     
 I am a frontend software engineer and CTO at AM & NB Services UG near Lake of Constance, Germany.
