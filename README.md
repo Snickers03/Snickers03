@@ -29,7 +29,7 @@
 <details>
   <summary><b>👤 About</b></summary>
   <blockquote>
-  I am a frontend software engineer and CTO at AM & NB Services UG near Lake of Constance, Germany.
+  I am a frontend software engineer and CTO at AM & NB Services UG near Lake of Constance, Germany.<br/>
     
   At AMNB I lead the development team and take care of organization, task management and product development. Besides that I study business informatics at the      DHBW Ravensburg.
     
