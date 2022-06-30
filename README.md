@@ -130,3 +130,6 @@ When I'm not at the keyboard, I like to do sports, read or do something with fri
 ![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
   
 </div>
+![](https://komarev.com/ghpvc/?username=Snickers03&color=orange)
+
+
